@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "6fe56330-a063-4e91-92db-dd393e103a19"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "14f8150e-c382-44c2-9469-a15a769db4c0"
+        }
+    ],
+    "filename": [
+        {
+            "value": "dr drupal.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-08\/dr drupal.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 339917
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-28T10:31:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-28T10:31:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "uuid": [
+        {
+            "value": "11226a19-d4d4-446e-be7b-4b26e3f27c7d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "4ba074b5-cb46-495a-bd35-f07a7be31f95"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-08-28T10:31:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "14f8150e-c382-44c2-9469-a15a769db4c0"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "14f8150e-c382-44c2-9469-a15a769db4c0"
+        }
+    ],
+    "title": [
+        {
+            "value": "An update from Nucleus HQ"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-28T10:29:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-28T10:31:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>This is a test<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "drupal man",
+            "title": "",
+            "width": 573,
+            "height": 682,
+            "target_type": "file",
+            "target_uuid": "6fe56330-a063-4e91-92db-dd393e103a19"
+        }
+    ],
+    "field_tags": []
+}
